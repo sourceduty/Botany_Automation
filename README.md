@@ -15,6 +15,10 @@ Implementing botany automation involves a combination of hardware and software c
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Plant Food Creator](https://github.com/sourceduty/Plant_Food_Creator)
+<br>
+[Seedling Location Optimizer](https://github.com/sourceduty/Seedling_Location_Optimizer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
