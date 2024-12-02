@@ -21,6 +21,10 @@ Implementing botany automation involves a combination of hardware and software c
 [Seedling Location Optimizer](https://github.com/sourceduty/Seedling_Location_Optimizer)
 <br>
 [Tree Identity](https://chatgpt.com/g/g-jd1xcKJm1-tree-identity)
+<br>
+[Bud Business](https://github.com/sourceduty/Bud_Business)
+<br>
+[Weed Strain](https://github.com/sourceduty/Weed_Strain)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
